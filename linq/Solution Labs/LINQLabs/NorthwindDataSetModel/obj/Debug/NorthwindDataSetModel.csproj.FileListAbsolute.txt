@@ -1,0 +1,5 @@
+E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll.config
+E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.pdb
+E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.pdb

@@ -1,0 +1,1040 @@
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AntiAliasingSample.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Borders.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingGaps3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingPerspectives.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAnchoring.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationEditing.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationPositionChanging.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationSmartLabels.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationStyles.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FreeDrawAnnotation.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingAnnotations.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PositionChangedEvent.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisTitle.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisMargins.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisScale.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisCrossing.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GridLinesTicks.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HighlightDateRange.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InterlacedStrips.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LogarithmicScale.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleYAxis.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrimarySecondaryAxis.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScaleBreaks.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripIntervals.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLineTitle.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLines.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningChartingAreas.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AlignmentTypes.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Appearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartArea3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAreaPosition.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDataPoint.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDoughnut.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAndChartAreas.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZOrder.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomDrawnTitles.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PaintingDataTable.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrePostPaint.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AddingSeries.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HidingSeries.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.IndexedX.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointWidthAndDepth.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SecondaryAxis.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesZOrder.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingLabels.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingMarkers.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorPositionChanged.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarEvents.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ViewChangedEvent.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAxis.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorInterval.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardZoomScroll.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultiChartAreaCursor.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAutoZoomScroll.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DrillDown.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InteractivePie.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointsDragging.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Dialog.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Selection.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomToolTips.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingToolTips.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicZooming.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardScrolling.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmallScrollSize.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZoomingExtents.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AutoFitAxesLabels.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisLabelsInterval.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisVarLabelsInterval.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomLabels.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EquallySizedAutoFont.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsFormatting.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsKeywords.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsNextToAxis.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsTextStyle.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultilineLabels.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmartLabels.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellColumns.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellSpan.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCells.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomItems.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomPosition.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendFont.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendStylePosition.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendTitle.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegends.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Palettes.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomPrinting.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipagePrinting.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrinterFriendlyCharts.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintPreview.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintingSettings.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SavingAndCopyingImages.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicSerialization.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Templates.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartTitle.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleTitles.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TitleCustomPosition.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChart3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumn3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Cylinder3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumnChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StackedChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PolarChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RadarChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CombinatorialChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ParetoChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BoxPlotChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HistogramChart.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ErrorBarChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FinancialChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurves3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FastLineChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurvesChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieChart3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollectedData.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollected.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BubbleChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FunnelChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PyramidChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBar3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Range3D.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBarChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeColumnChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KagiChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointAndFigureChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RenkoChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ThreeLineBreakChartType.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicPopulatingData.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DynamicChartCreation.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ApplicationEntryPoint.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Properties.Resources.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingXY.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingY.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindCrosstab.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindTable.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataSourceBinding.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExtendedDataBinding.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesByRows.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningAxisLabel.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MergingValues.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SplittingValues.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataGridBinding.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExportingInXML.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BandPassFilter.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterDateRange.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterTopN.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterWithCustomCriteria.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterYValuesRange.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByMaxMinValues.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByValue.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingByAxisLabel.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingFormulas.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingStockData.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAlignment.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomSortingOrder.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Sorting.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SpikeRemoval.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ANOVA.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CovarianceAndCorrelation.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DescriptiveStatistics.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Distributions.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FTest.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TTest.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ArrayBinding.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CSVDataBinding.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseDataview.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExcelData.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.XMLData.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DymamicPointAdd.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EmptyPointAppearance.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InsertingEmptyPoints.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MovingAverages.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PriceIndicators.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeIndicators.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TechnicalPriceIndicators.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Forecasting.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.VolumeIndicators.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ManyYBubble.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeSample.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeData.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RetrievingAssigningDates.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TimeScale.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.af.resources
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.csproj.GenerateResource.Cache
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\af\WinFormsChartSamples.resources.dll
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.exe
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.pdb
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.exe
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.pdb
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\af\WinFormsChartSamples.resources.dll
+D:\VS 2005 隨身碟\專題心得\MSIT 74\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmMyTest.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.exe
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.pdb
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AntiAliasingSample.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Borders.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingGaps3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingPerspectives.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAnchoring.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationEditing.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationPositionChanging.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationSmartLabels.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationStyles.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FreeDrawAnnotation.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingAnnotations.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PositionChangedEvent.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisTitle.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisMargins.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisScale.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisCrossing.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GridLinesTicks.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HighlightDateRange.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InterlacedStrips.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LogarithmicScale.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleYAxis.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrimarySecondaryAxis.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScaleBreaks.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripIntervals.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLineTitle.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLines.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningChartingAreas.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AlignmentTypes.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Appearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartArea3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAreaPosition.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDataPoint.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDoughnut.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAndChartAreas.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZOrder.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomDrawnTitles.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PaintingDataTable.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrePostPaint.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AddingSeries.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HidingSeries.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.IndexedX.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointWidthAndDepth.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SecondaryAxis.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesZOrder.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingLabels.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingMarkers.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorPositionChanged.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarEvents.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ViewChangedEvent.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAxis.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorInterval.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardZoomScroll.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultiChartAreaCursor.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAutoZoomScroll.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DrillDown.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InteractivePie.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointsDragging.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Dialog.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Selection.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomToolTips.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingToolTips.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicZooming.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardScrolling.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmallScrollSize.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZoomingExtents.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AutoFitAxesLabels.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisLabelsInterval.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisVarLabelsInterval.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomLabels.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EquallySizedAutoFont.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsFormatting.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsKeywords.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsNextToAxis.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsTextStyle.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultilineLabels.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmartLabels.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellColumns.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellSpan.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCells.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomItems.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomPosition.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendFont.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendStylePosition.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendTitle.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegends.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Palettes.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomPrinting.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipagePrinting.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrinterFriendlyCharts.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintPreview.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintingSettings.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SavingAndCopyingImages.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicSerialization.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Templates.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartTitle.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleTitles.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TitleCustomPosition.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChart3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumn3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Cylinder3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumnChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StackedChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PolarChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RadarChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CombinatorialChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ParetoChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BoxPlotChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HistogramChart.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ErrorBarChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FinancialChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurves3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FastLineChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurvesChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieChart3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollectedData.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollected.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BubbleChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FunnelChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PyramidChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBar3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Range3D.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBarChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeColumnChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KagiChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointAndFigureChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RenkoChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ThreeLineBreakChartType.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmMyTest.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmTest.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicPopulatingData.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DynamicChartCreation.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ApplicationEntryPoint.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Properties.Resources.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingXY.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingY.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindCrosstab.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindTable.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataSourceBinding.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExtendedDataBinding.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesByRows.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningAxisLabel.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MergingValues.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SplittingValues.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataGridBinding.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExportingInXML.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BandPassFilter.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterDateRange.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterTopN.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterWithCustomCriteria.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterYValuesRange.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByMaxMinValues.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByValue.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingByAxisLabel.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingFormulas.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingStockData.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAlignment.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomSortingOrder.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Sorting.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SpikeRemoval.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ANOVA.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CovarianceAndCorrelation.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DescriptiveStatistics.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Distributions.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FTest.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TTest.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ArrayBinding.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CSVDataBinding.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseDataview.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExcelData.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.XMLData.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DymamicPointAdd.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EmptyPointAppearance.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InsertingEmptyPoints.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MovingAverages.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PriceIndicators.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeIndicators.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TechnicalPriceIndicators.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Forecasting.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.VolumeIndicators.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ManyYBubble.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeSample.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeData.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RetrievingAssigningDates.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TimeScale.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.af.resources
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.csproj.GenerateResource.Cache
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\af\WinFormsChartSamples.resources.dll
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.exe
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.pdb
+D:\Visual Studio\專題心得\專題 others\MS Chart\WinSamples\WinSamples\af\WinFormsChartSamples.resources.dll
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AntiAliasingSample.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Borders.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingGaps3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingPerspectives.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAnchoring.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationEditing.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationPositionChanging.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationSmartLabels.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationStyles.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FreeDrawAnnotation.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingAnnotations.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PositionChangedEvent.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisTitle.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisMargins.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisScale.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisCrossing.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GridLinesTicks.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HighlightDateRange.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InterlacedStrips.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LogarithmicScale.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleYAxis.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrimarySecondaryAxis.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScaleBreaks.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripIntervals.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLineTitle.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLines.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningChartingAreas.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AlignmentTypes.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Appearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartArea3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAreaPosition.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDataPoint.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDoughnut.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAndChartAreas.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZOrder.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomDrawnTitles.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PaintingDataTable.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrePostPaint.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AddingSeries.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HidingSeries.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.IndexedX.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointWidthAndDepth.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SecondaryAxis.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesZOrder.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingLabels.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingMarkers.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorPositionChanged.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarEvents.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ViewChangedEvent.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAxis.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorInterval.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardZoomScroll.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultiChartAreaCursor.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAutoZoomScroll.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DrillDown.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InteractivePie.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointsDragging.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Dialog.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Selection.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomToolTips.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingToolTips.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicZooming.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardScrolling.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmallScrollSize.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZoomingExtents.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AutoFitAxesLabels.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisLabelsInterval.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisVarLabelsInterval.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomLabels.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EquallySizedAutoFont.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsFormatting.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsKeywords.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsNextToAxis.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsTextStyle.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultilineLabels.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmartLabels.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellColumns.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellSpan.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCells.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomItems.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomPosition.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendFont.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendStylePosition.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendTitle.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegends.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Palettes.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomPrinting.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipagePrinting.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrinterFriendlyCharts.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintPreview.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintingSettings.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SavingAndCopyingImages.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicSerialization.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Templates.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartTitle.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleTitles.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TitleCustomPosition.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChart3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumn3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Cylinder3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumnChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StackedChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PolarChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RadarChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CombinatorialChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ParetoChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BoxPlotChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HistogramChart.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ErrorBarChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FinancialChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurves3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FastLineChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurvesChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieChart3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollectedData.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollected.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BubbleChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FunnelChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PyramidChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBar3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Range3D.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBarChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeColumnChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KagiChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointAndFigureChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RenkoChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ThreeLineBreakChartType.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmMyTest.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmTest.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicPopulatingData.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DynamicChartCreation.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ApplicationEntryPoint.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Properties.Resources.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingXY.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingY.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindCrosstab.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindTable.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataSourceBinding.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExtendedDataBinding.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesByRows.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningAxisLabel.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MergingValues.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SplittingValues.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataGridBinding.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExportingInXML.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BandPassFilter.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterDateRange.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterTopN.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterWithCustomCriteria.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterYValuesRange.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByMaxMinValues.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByValue.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingByAxisLabel.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingFormulas.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingStockData.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAlignment.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomSortingOrder.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Sorting.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SpikeRemoval.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ANOVA.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CovarianceAndCorrelation.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DescriptiveStatistics.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Distributions.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FTest.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TTest.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ArrayBinding.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CSVDataBinding.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseDataview.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExcelData.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.XMLData.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DymamicPointAdd.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EmptyPointAppearance.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InsertingEmptyPoints.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MovingAverages.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PriceIndicators.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeIndicators.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TechnicalPriceIndicators.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Forecasting.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.VolumeIndicators.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ManyYBubble.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeSample.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeData.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RetrievingAssigningDates.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TimeScale.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.af.resources
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.csproj.GenerateResource.Cache
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\af\WinFormsChartSamples.resources.dll
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.pdb
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.pdb
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\af\WinFormsChartSamples.resources.dll
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.exe.config
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.exe
+F:\隨身碟\KingStone\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.exe
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.exe.config
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.exe
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.pdb
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AntiAliasingSample.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Borders.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingGaps3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingPerspectives.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAnchoring.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationEditing.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationPositionChanging.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationSmartLabels.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationStyles.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FreeDrawAnnotation.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingAnnotations.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PositionChangedEvent.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisTitle.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisMargins.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisScale.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisCrossing.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GridLinesTicks.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HighlightDateRange.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InterlacedStrips.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LogarithmicScale.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleYAxis.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrimarySecondaryAxis.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScaleBreaks.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripIntervals.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLineTitle.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StripLines.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningChartingAreas.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AlignmentTypes.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Appearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartArea3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartAreaPosition.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDataPoint.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDoughnut.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAndChartAreas.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZOrder.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomDrawnTitles.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PaintingDataTable.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrePostPaint.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AddingSeries.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HidingSeries.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.IndexedX.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointWidthAndDepth.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SecondaryAxis.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesZOrder.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingLabels.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingMarkers.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorPositionChanged.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarEvents.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ViewChangedEvent.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAxis.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorInterval.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardZoomScroll.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultiChartAreaCursor.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CursorAutoZoomScroll.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DrillDown.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InteractivePie.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointsDragging.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Dialog.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Selection.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomToolTips.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.UsingToolTips.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicZooming.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardScrolling.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmallScrollSize.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ZoomingExtents.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AutoFitAxesLabels.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisLabelsInterval.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AxisVarLabelsInterval.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomLabels.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EquallySizedAutoFont.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsFormatting.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsKeywords.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsNextToAxis.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LabelsTextStyle.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultilineLabels.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SmartLabels.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellColumns.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellSpan.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCells.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomItems.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomPosition.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendFont.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendStylePosition.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendTitle.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegends.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Palettes.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomPrinting.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipagePrinting.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrinterFriendlyCharts.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintPreview.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PrintingSettings.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SavingAndCopyingImages.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicSerialization.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Templates.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ChartTitle.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MultipleTitles.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TitleCustomPosition.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChart3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AreaChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumn3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Cylinder3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BarColumnChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.StackedChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PolarChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RadarChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CombinatorialChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ParetoChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BoxPlotChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.HistogramChart.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ErrorBarChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FinancialChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurves3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FastLineChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LineCurvesChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieChart3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollectedData.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PieCollected.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BubbleChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FunnelChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PyramidChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBar3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Range3D.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeBarChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeColumnChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.KagiChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PointAndFigureChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RenkoChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ThreeLineBreakChartType.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmMyTest.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FrmTest.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BasicPopulatingData.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DynamicChartCreation.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ApplicationEntryPoint.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Properties.Resources.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingXY.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingY.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindCrosstab.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataBindTable.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataSourceBinding.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExtendedDataBinding.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesByRows.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.AligningAxisLabel.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MergingValues.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SplittingValues.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DataGridBinding.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExportingInXML.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.BandPassFilter.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterDateRange.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterTopN.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterWithCustomCriteria.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FilterYValuesRange.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByMaxMinValues.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FindByValue.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingByAxisLabel.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingFormulas.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.GroupingStockData.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAlignment.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CustomSortingOrder.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Sorting.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.SpikeRemoval.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ANOVA.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CovarianceAndCorrelation.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DescriptiveStatistics.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Distributions.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.FTest.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TTest.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ArrayBinding.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.CSVDataBinding.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseDataview.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ExcelData.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.XMLData.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.DymamicPointAdd.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.EmptyPointAppearance.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.InsertingEmptyPoints.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.MovingAverages.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.PriceIndicators.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RangeIndicators.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TechnicalPriceIndicators.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.Forecasting.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.VolumeIndicators.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.ManyYBubble.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeSample.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeData.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.RetrievingAssigningDates.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.TimeScale.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.af.resources
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\WinFormsChartSamples.csproj.GenerateResource.Cache
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\obj\Debug\af\WinFormsChartSamples.resources.dll
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.exe
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\WinFormsChartSamples.pdb
+F:\專題心得\專題 others\MS Chart\WinSamples\WinSamples\af\WinFormsChartSamples.resources.dll
+E:\LINQ\Charts\WinSamples\WinFormsChartSamples.exe.config
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.exe
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.pdb
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.csprojResolveAssemblyReference.cache
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AntiAliasingSample.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ChartAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Borders.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.UsingGaps3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.UsingPerspectives.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAnchoring.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationEditing.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationPositionChanging.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationSmartLabels.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AnnotationStyles.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FreeDrawAnnotation.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.GroupingAnnotations.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PositionChangedEvent.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisTitle.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisMargins.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisScale.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisCrossing.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.GridLinesTicks.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.HighlightDateRange.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.InterlacedStrips.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LogarithmicScale.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultipleYAxis.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PrimarySecondaryAxis.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ScaleBreaks.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.StripIntervals.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.StripLineTitle.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.StripLines.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AligningChartingAreas.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AlignmentTypes.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Appearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ChartArea3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ChartAreaPosition.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDataPoint.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ChartInDoughnut.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAndChartAreas.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ZOrder.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CustomDrawnTitles.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PaintingDataTable.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PrePostPaint.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AddingSeries.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.HidingSeries.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.IndexedX.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PointWidthAndDepth.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SecondaryAxis.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SeriesZOrder.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.UsingLabels.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.UsingMarkers.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CursorPositionChanged.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarEvents.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ViewChangedEvent.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CursorAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CursorAxis.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CursorInterval.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardZoomScroll.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultiChartAreaCursor.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CursorAutoZoomScroll.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DrillDown.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.InteractivePie.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PointsDragging.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Dialog.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Selection.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CustomToolTips.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.UsingToolTips.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BasicZooming.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.KeyboardScrolling.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ScrollBarAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SmallScrollSize.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ZoomingExtents.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AutoFitAxesLabels.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisLabelsInterval.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AxisVarLabelsInterval.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CustomLabels.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.EquallySizedAutoFont.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LabelsFormatting.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LabelsKeywords.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LabelsNextToAxis.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LabelsTextStyle.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultilineLabels.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SmartLabels.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellColumns.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendCellSpan.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendCells.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomItems.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendCustomPosition.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendFont.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendStylePosition.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendTitle.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultipleLegends.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Palettes.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CustomPrinting.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultipagePrinting.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PrinterFriendlyCharts.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PrintPreview.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PrintingSettings.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SavingAndCopyingImages.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BasicSerialization.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Templates.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ChartTitle.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MultipleTitles.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.TitleCustomPosition.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AreaChart3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AreaChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BarColumn3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Cylinder3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BarColumnChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.StackedChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PolarChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RadarChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CombinatorialChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ParetoChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BoxPlotChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.HistogramChart.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ErrorBarChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FinancialChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LineCurves3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FastLineChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LineCurvesChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PieChart3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PieCollectedData.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PieCollected.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BubbleChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PointChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FunnelChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PyramidChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RangeBar3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Range3D.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RangeBarChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RangeColumnChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RangeChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.KagiChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PointAndFigureChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RenkoChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ThreeLineBreakChartType.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FrmMyTest.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FrmTest.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BasicPopulatingData.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DynamicChartCreation.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ApplicationEntryPoint.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Properties.Resources.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingXY.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseBindingY.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DataBindCrosstab.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DataBindTable.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DataSourceBinding.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ExtendedDataBinding.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SeriesByRows.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.AligningAxisLabel.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MergingValues.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SplittingValues.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DataGridBinding.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ExportingInXML.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.BandPassFilter.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FilterDateRange.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FilterTopN.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FilterWithCustomCriteria.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FilterYValuesRange.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FindByMaxMinValues.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FindByValue.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.GroupingByAxisLabel.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.GroupingFormulas.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.GroupingStockData.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SeriesAlignment.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CustomSortingOrder.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Sorting.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.SpikeRemoval.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ANOVA.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CovarianceAndCorrelation.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DescriptiveStatistics.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Distributions.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.FTest.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.TTest.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ArrayBinding.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.CSVDataBinding.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DatabaseDataview.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ExcelData.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.XMLData.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.DymamicPointAdd.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.EmptyPointAppearance.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.InsertingEmptyPoints.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.MovingAverages.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.PriceIndicators.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RangeIndicators.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.TechnicalPriceIndicators.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.Forecasting.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.VolumeIndicators.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.ManyYBubble.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeSample.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RealTimeData.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.RetrievingAssigningDates.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.TimeScale.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.LegendInteractive.af.resources
+E:\LINQ\Charts\WinSamples\obj\Debug\WinFormsChartSamples.csproj.GenerateResource.Cache
+E:\LINQ\Charts\WinSamples\obj\Debug\af\WinFormsChartSamples.resources.dll
+E:\LINQ\Charts\WinSamples\WinFormsChartSamples.exe
+E:\LINQ\Charts\WinSamples\WinFormsChartSamples.pdb
+E:\LINQ\Charts\WinSamples\af\WinFormsChartSamples.resources.dll

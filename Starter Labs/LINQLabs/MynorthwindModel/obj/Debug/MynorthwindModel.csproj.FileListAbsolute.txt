@@ -1,0 +1,6 @@
+E:\上課\LINQ\Starter Labs\LINQLabs\MynorthwindModel\bin\Debug\MynorthwindModel.dll.config
+E:\上課\LINQ\Starter Labs\LINQLabs\MynorthwindModel\bin\Debug\MynorthwindModel.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\MynorthwindModel\bin\Debug\MynorthwindModel.pdb
+E:\上課\LINQ\Starter Labs\LINQLabs\MynorthwindModel\obj\Debug\MynorthwindModel.csprojResolveAssemblyReference.cache
+E:\上課\LINQ\Starter Labs\LINQLabs\MynorthwindModel\obj\Debug\MynorthwindModel.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\MynorthwindModel\obj\Debug\MynorthwindModel.pdb

@@ -1,0 +1,30 @@
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Lab_01_HelloLinq.FrmHelloLinq.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.Cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\LINQ (MSIT 91 兩天)\Starter Labs\LinqLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\Lab_01_HelloLINQ.FrmHelloLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LINQ.FrmLINQToDataSet.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToSQL.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToXML_JSON_EXCEL.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\obj\Debug\LinqLabs.csproj.GenerateResource.Cache
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\bin\Debug\LinqLabs.exe
+D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp Labs\Starter Labs  (New)\LinqLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+E:\LINQ\Starter Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+E:\LINQ\Starter Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
+E:\LINQ\Starter Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LinqLabs</RootNamespace>
+    <AssemblyName>LinqLabs</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1. FrmHelloLINQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1. FrmHelloLINQ.Designer.cs">
+      <DependentUpon>1. FrmHelloLINQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2. FrmLangForLINQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2. FrmLangForLINQ.Designer.cs">
+      <DependentUpon>2. FrmLangForLINQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4. FrmLINQToObject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4. FrmLINQToObject.Designer.cs">
+      <DependentUpon>4. FrmLINQToObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3. FrmLINQ架構介紹_InsideLINQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3. FrmLINQ架構介紹_InsideLINQ.Designer.cs">
+      <DependentUpon>3. FrmLINQ架構介紹_InsideLINQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6. FrmLINQToDataSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6. FrmLINQToDataSet.Designer.cs">
+      <DependentUpon>6. FrmLINQToDataSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5. FrmLINQToEntity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5. FrmLINQToEntity.designer.cs">
+      <DependentUpon>5. FrmLINQToEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7. FrmLINQToXML_JSON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7. FrmLINQToXML_JSON.designer.cs">
+      <DependentUpon>7. FrmLINQToXML_JSON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="1. FrmHelloLINQ.resx">
+      <DependentUpon>1. FrmHelloLINQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2. FrmLangForLINQ.resx">
+      <DependentUpon>2. FrmLangForLINQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4. FrmLINQToObject.resx">
+      <DependentUpon>4. FrmLINQToObject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3. FrmLINQ架構介紹_InsideLINQ.resx">
+      <DependentUpon>3. FrmLINQ架構介紹_InsideLINQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6. FrmLINQToDataSet.resx">
+      <DependentUpon>6. FrmLINQToDataSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5. FrmLINQToEntity.resx">
+      <DependentUpon>5. FrmLINQToEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7. FrmLINQToXML_JSON.resx">
+      <DependentUpon>7. FrmLINQToXML_JSON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NorthwindDataSetModel\NorthwindDataSetModel.csproj">
+      <Project>{21bbc08f-e57d-43ca-8c5d-39c67724371e}</Project>
+      <Name>NorthwindDataSetModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
