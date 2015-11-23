@@ -110,28 +110,56 @@ namespace Starter
             
             FileInfo f = new FileInfo(@"C:\Users\III\下載");
 
-            var q = from n in f
+            //var q = from n in f
 
-            foreach (var groups in q)
+            //foreach (var groups in q)
+            //{
+            //    //if( groups.Key==0)
+
+            //    TreeNode node = this.treeView1.Nodes.Add(groups.Key.ToString());
+            //    foreach (var item in groups)
+            //    {
+            //        node.Nodes.Add(item.ToString());
+            //    }
+
+            //}
+
+            //foreach (var groups in q)
+            //{
+            //    ListViewGroup lvgroup = this.listView1.Groups.Add(groups.Key.ToString(), groups.Key.ToString());
+            //    foreach (var item in groups)
+            //    {
+            //        this.listView1.Items.Add(item.ToString()).Group = lvgroup;
+            //    }
+
+            //}
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            string s = "This is a blook. This is an apple. Thia is a pen.";
+            string[] words= s.Split(new char[] {'.', ' '}, StringSplitOptions.RemoveEmptyEntries);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string s = "This is a blook. This is an apple. Thia is a pen.";
+            string[] words= s.Split(new char[] {'.', ' '}, StringSplitOptions.RemoveEmptyEntries);
+            var q = from n in words
+                    group n by (n);
+
+            var q1 = from n in words
+                     group n by n into g
+                     select new { MyKey = g.Key, MyCount = g.Count(), MyGroup = g };
+            this.dataGridView1.DataSource = q1.ToList();
+
+            foreach (var n in q1)
             {
-                //if( groups.Key==0)
-
-                TreeNode node = this.treeView1.Nodes.Add(groups.Key.ToString());
-                foreach (var item in groups)
+                TreeNode t = this.treeView1.Nodes.Add(n.MyKey);
+                foreach (var m in n.MyGroup)
                 {
-                    node.Nodes.Add(item.ToString());
+                    t.Nodes.Add(m);
                 }
-
-            }
-
-            foreach (var groups in q)
-            {
-                ListViewGroup lvgroup = this.listView1.Groups.Add(groups.Key.ToString(), groups.Key.ToString());
-                foreach (var item in groups)
-                {
-                    this.listView1.Items.Add(item.ToString()).Group = lvgroup;
-                }
-
             }
         }
 
