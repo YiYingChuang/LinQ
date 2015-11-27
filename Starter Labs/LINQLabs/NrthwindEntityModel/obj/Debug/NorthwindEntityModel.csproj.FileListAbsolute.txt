@@ -1,0 +1,11 @@
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\NorthwindEntityModel.dll.config
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\NorthwindEntityModel.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\NorthwindEntityModel.pdb
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\EntityFramework.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\EntityFramework.xml
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\obj\Debug\NorthwindEntityModel.csprojResolveAssemblyReference.cache
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\obj\Debug\NorthwindEntityModel.dll
+E:\上課\LINQ\Starter Labs\LINQLabs\NrthwindEntityModel\obj\Debug\NorthwindEntityModel.pdb

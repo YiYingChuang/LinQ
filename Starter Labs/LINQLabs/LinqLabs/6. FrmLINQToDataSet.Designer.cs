@@ -186,6 +186,7 @@
             this.button14.TabIndex = 0;
             this.button14.Text = "Products";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // groupBox5
             // 

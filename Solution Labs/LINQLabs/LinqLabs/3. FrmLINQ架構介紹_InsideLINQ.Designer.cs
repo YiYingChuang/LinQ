@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBox7 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.button54 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -61,7 +62,6 @@
             this.splitContainer4 = new System.Windows.Forms.SplitContainer();
             this.productsTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.ProductsTableAdapter();
             this.northwindDataSet1 = new NorthwindDataSetModel.NorthwindDataSet();
-            this.button1 = new System.Windows.Forms.Button();
             this.groupBox7.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox5.SuspendLayout();
@@ -104,6 +104,16 @@
             this.groupBox7.TabIndex = 28;
             this.groupBox7.TabStop = false;
             this.groupBox7.Text = "Step 3. 執行 Query 查詢";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(220, 48);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(135, 23);
+            this.button1.TabIndex = 18;
+            this.button1.Text = "Aggregation";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label8
             // 
@@ -325,7 +335,7 @@
             // button9
             // 
             this.button9.ForeColor = System.Drawing.Color.Black;
-            this.button9.Location = new System.Drawing.Point(26, 32);
+            this.button9.Location = new System.Drawing.Point(11, 21);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(350, 23);
             this.button9.TabIndex = 10;
@@ -335,7 +345,7 @@
             // button30
             // 
             this.button30.ForeColor = System.Drawing.Color.Black;
-            this.button30.Location = new System.Drawing.Point(26, 61);
+            this.button30.Location = new System.Drawing.Point(14, 61);
             this.button30.Name = "button30";
             this.button30.Size = new System.Drawing.Size(350, 23);
             this.button30.TabIndex = 13;
@@ -474,16 +484,6 @@
             // 
             this.northwindDataSet1.DataSetName = "NorthwindDataSet";
             this.northwindDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(220, 48);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 23);
-            this.button1.TabIndex = 18;
-            this.button1.Text = "Aggregation";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // FrmLINQ架構介紹_InsideLINQ
             // 

@@ -1,6 +1,10 @@
 ﻿using Lab_01_HelloLINQ;
 using Lab_02_CSharp_3._0;
 using Lab_03;
+using LINQ.StartupLabs;
+using LinqLabs;
+using MyLINQ;
+using MyLINQ.StartupLabs;
 using Starter;
 using System;
 using System.Collections.Generic;
@@ -19,7 +23,11 @@ namespace LINQLabs
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLINQ_To_XXX());
+
+            //Application.Run(new FrmLINQ_To_XXX());
+            //Application.Run(new FrmLinqToDataSet());
+
+            Application.Run(new FrmHelloLINQ());
         }
     }
 }

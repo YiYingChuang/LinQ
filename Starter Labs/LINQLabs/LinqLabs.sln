@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQLabs", "LinqLabs\LINQLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MynorthwindModel", "MynorthwindModel\MynorthwindModel.csproj", "{DDA8E868-C974-4E75-8AE0-D59ACD585BD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindEntityModel", "NrthwindEntityModel\NorthwindEntityModel.csproj", "{79D1FCC2-B049-4675-84A2-701263448898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DDA8E868-C974-4E75-8AE0-D59ACD585BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA8E868-C974-4E75-8AE0-D59ACD585BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA8E868-C974-4E75-8AE0-D59ACD585BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D1FCC2-B049-4675-84A2-701263448898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D1FCC2-B049-4675-84A2-701263448898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D1FCC2-B049-4675-84A2-701263448898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D1FCC2-B049-4675-84A2-701263448898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

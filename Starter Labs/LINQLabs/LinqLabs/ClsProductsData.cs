@@ -73,7 +73,7 @@ namespace MyDataContext
         public decimal UnitPrice { get; set; }
         public int UnitsInStock { get; set; }
 
-        public int? CategoryID { get; set; }
+        public int? CategoryID { get; set; }//?可以為空值
 
         // 導覽屬性
         public Category Category

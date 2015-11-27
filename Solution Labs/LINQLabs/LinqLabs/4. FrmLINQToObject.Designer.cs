@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea6 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend6 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series11 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series12 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.button26 = new System.Windows.Forms.Button();
             this.button23 = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
@@ -65,6 +65,7 @@
             this.button21 = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.button14 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button12 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
@@ -98,7 +99,6 @@
             this.productsTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.ProductsTableAdapter();
             this.northwindDataSet1 = new NorthwindDataSetModel.NorthwindDataSet();
             this.categoriesTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.CategoriesTableAdapter();
-            this.button14 = new System.Windows.Forms.Button();
             this.groupBox4.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.groupBox9.SuspendLayout();
@@ -159,6 +159,7 @@
             this.button23.TabIndex = 113;
             this.button23.Text = "new MyComparer())";
             this.button23.UseVisualStyleBackColor = true;
+            this.button23.Click += new System.EventHandler(this.button23_Click);
             // 
             // button22
             // 
@@ -169,6 +170,7 @@
             this.button22.TabIndex = 112;
             this.button22.Text = "orderby , then by";
             this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
             // groupBox4
             // 
@@ -192,6 +194,7 @@
             this.button3.TabIndex = 3;
             this.button3.Text = "查詢具有指定屬性或名稱的檔案 (用 Let)";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button38
             // 
@@ -239,7 +242,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.Red;
-            this.label3.Location = new System.Drawing.Point(24, 303);
+            this.label3.Location = new System.Drawing.Point(24, 321);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(244, 12);
             this.label3.TabIndex = 118;
@@ -256,6 +259,7 @@
             this.button50.TabIndex = 88;
             this.button50.Text = " 有下訂單的客戶   Any All - exits";
             this.button50.UseVisualStyleBackColor = false;
+            this.button50.Click += new System.EventHandler(this.button50_Click);
             // 
             // groupBox9
             // 
@@ -283,6 +287,7 @@
             this.button27.TabIndex = 119;
             this.button27.Text = "DefaultIf Empty";
             this.button27.UseVisualStyleBackColor = true;
+            this.button27.Click += new System.EventHandler(this.button27_Click);
             // 
             // button45
             // 
@@ -293,13 +298,14 @@
             this.button45.TabIndex = 6;
             this.button45.Text = "集合運算子 - Distinct/Union/Intersect/Except";
             this.button45.UseVisualStyleBackColor = true;
+            this.button45.Click += new System.EventHandler(this.button45_Click);
             // 
             // button46
             // 
             this.button46.Location = new System.Drawing.Point(20, 94);
             this.button46.Margin = new System.Windows.Forms.Padding(2);
             this.button46.Name = "button46";
-            this.button46.Size = new System.Drawing.Size(272, 18);
+            this.button46.Size = new System.Drawing.Size(272, 25);
             this.button46.TabIndex = 8;
             this.button46.Text = "產生作業 Generation - Range/Repeat/Empty / DefaultEmpty";
             this.button46.UseVisualStyleBackColor = true;
@@ -313,6 +319,7 @@
             this.button47.TabIndex = 10;
             this.button47.Text = "切割運算子: Take / TakeWhile / Skip / SkipWhile";
             this.button47.UseVisualStyleBackColor = true;
+            this.button47.Click += new System.EventHandler(this.button47_Click);
             // 
             // button48
             // 
@@ -323,6 +330,7 @@
             this.button48.TabIndex = 9;
             this.button48.Text = "數量詞作業 Quantifier : Any/All/Contains";
             this.button48.UseVisualStyleBackColor = true;
+            this.button48.Click += new System.EventHandler(this.button48_Click);
             // 
             // button49
             // 
@@ -339,11 +347,12 @@
             this.button18_1.Location = new System.Drawing.Point(20, 123);
             this.button18_1.Margin = new System.Windows.Forms.Padding(2);
             this.button18_1.Name = "button18_1";
-            this.button18_1.Size = new System.Drawing.Size(353, 42);
+            this.button18_1.Size = new System.Drawing.Size(361, 42);
             this.button18_1.TabIndex = 11;
             this.button18_1.Text = "元素運算子:\r\nFirst/FirstOrDefault/Last/LastOrDefault/Single/SingleOrDefault/ElementAt/" +
     "ElementAtOrDefault/DefaultIfEmpty";
             this.button18_1.UseVisualStyleBackColor = true;
+            this.button18_1.Click += new System.EventHandler(this.button18_1_Click);
             // 
             // button29
             // 
@@ -380,6 +389,7 @@
             this.button28.TabIndex = 117;
             this.button28.Text = "Sequential 循序";
             this.button28.UseVisualStyleBackColor = true;
+            this.button28.Click += new System.EventHandler(this.button28_Click);
             // 
             // label2
             // 
@@ -407,6 +417,7 @@
             this.button25.TabIndex = 115;
             this.button25.Text = "Parallel 平行";
             this.button25.UseVisualStyleBackColor = true;
+            this.button25.Click += new System.EventHandler(this.button25_Click);
             // 
             // button24
             // 
@@ -418,6 +429,7 @@
             this.button24.TabIndex = 114;
             this.button24.Text = "PLINQ";
             this.button24.UseVisualStyleBackColor = false;
+            this.button24.Click += new System.EventHandler(this.button24_Click);
             // 
             // button30
             // 
@@ -429,28 +441,31 @@
             this.button30.TabIndex = 95;
             this.button30.Text = "價錢高, 訂單又不多的產品 (點關連標記法)";
             this.button30.UseVisualStyleBackColor = false;
+            this.button30.Click += new System.EventHandler(this.button30_Click);
             // 
             // button4
             // 
             this.button4.BackColor = System.Drawing.SystemColors.Control;
             this.button4.ForeColor = System.Drawing.Color.Black;
-            this.button4.Location = new System.Drawing.Point(132, 247);
+            this.button4.Location = new System.Drawing.Point(44, 248);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 85;
             this.button4.Text = "上一頁";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button9
             // 
             this.button9.BackColor = System.Drawing.SystemColors.Control;
             this.button9.ForeColor = System.Drawing.Color.Black;
-            this.button9.Location = new System.Drawing.Point(32, 247);
+            this.button9.Location = new System.Drawing.Point(141, 248);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
             this.button9.TabIndex = 84;
             this.button9.Text = "下一頁";
             this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button32
             // 
@@ -485,6 +500,7 @@
             this.button21.TabIndex = 92;
             this.button21.Text = "SelectMany - inner join / Cross join";
             this.button21.UseVisualStyleBackColor = true;
+            this.button21.Click += new System.EventHandler(this.button21_Click);
             // 
             // tabControl1
             // 
@@ -513,6 +529,16 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Basic (group / orderby / join)";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // button14
+            // 
+            this.button14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.button14.Location = new System.Drawing.Point(342, 287);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(173, 31);
+            this.button14.TabIndex = 114;
+            this.button14.Text = "TODO : Group by 日期 / 大小";
+            this.button14.UseVisualStyleBackColor = false;
             // 
             // groupBox1
             // 
@@ -590,6 +616,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "統計某個字在字串中出現的次數 (linq)";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button5
             // 
@@ -601,6 +628,7 @@
             this.button5.TabIndex = 8;
             this.button5.Text = "查詢字串出現的字數";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // groupBox5
             // 
@@ -612,10 +640,11 @@
             this.groupBox5.Controls.Add(this.button11);
             this.groupBox5.Location = new System.Drawing.Point(8, 375);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(332, 217);
+            this.groupBox5.Size = new System.Drawing.Size(327, 217);
             this.groupBox5.TabIndex = 109;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "6. Linq to ClsProductsData (join / Group By)";
+            this.groupBox5.Enter += new System.EventHandler(this.groupBox5_Enter);
             // 
             // button19
             // 
@@ -623,10 +652,11 @@
             this.button19.ForeColor = System.Drawing.Color.White;
             this.button19.Location = new System.Drawing.Point(8, 38);
             this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(286, 23);
+            this.button19.Size = new System.Drawing.Size(298, 23);
             this.button19.TabIndex = 90;
             this.button19.Text = "0. 尋找各分類之平均單價 (By CategoryID)";
             this.button19.UseVisualStyleBackColor = false;
+            this.button19.Click += new System.EventHandler(this.button19_Click);
             // 
             // button13
             // 
@@ -646,20 +676,22 @@
             this.button8.ForeColor = System.Drawing.Color.Black;
             this.button8.Location = new System.Drawing.Point(9, 155);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(225, 23);
+            this.button8.Size = new System.Drawing.Size(254, 23);
             this.button8.TabIndex = 88;
             this.button8.Text = "尋找 低中高 價產品";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // Test
             // 
             this.Test.Location = new System.Drawing.Point(5, 14);
             this.Test.Margin = new System.Windows.Forms.Padding(2);
             this.Test.Name = "Test";
-            this.Test.Size = new System.Drawing.Size(299, 18);
+            this.Test.Size = new System.Drawing.Size(289, 18);
             this.Test.TabIndex = 87;
             this.Test.Text = "Test  ClsProductsData";
             this.Test.UseVisualStyleBackColor = true;
+            this.Test.Click += new System.EventHandler(this.Test_Click);
             // 
             // button10
             // 
@@ -667,10 +699,11 @@
             this.button10.ForeColor = System.Drawing.Color.White;
             this.button10.Location = new System.Drawing.Point(6, 66);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(323, 23);
+            this.button10.Size = new System.Drawing.Size(300, 23);
             this.button10.TabIndex = 83;
             this.button10.Text = "1. 尋找各分類之平均單價 (Inner Join)  (by CategoryName)";
             this.button10.UseVisualStyleBackColor = false;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button11
             // 
@@ -682,6 +715,7 @@
             this.button11.TabIndex = 82;
             this.button11.Text = "3. 尋找各分類之平均單價 (點關連標記法, 導覽屬性) (Implicit Inner Join) ";
             this.button11.UseVisualStyleBackColor = false;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // groupBox3
             // 
@@ -710,12 +744,13 @@
             // 
             // button16
             // 
-            this.button16.Location = new System.Drawing.Point(13, 76);
+            this.button16.Location = new System.Drawing.Point(13, 84);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(162, 23);
             this.button16.TabIndex = 86;
             this.button16.Text = "點關連標記法 (left out join)";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // dataGridView1
             // 
@@ -831,21 +866,21 @@
             // 
             // chart1
             // 
-            chartArea6.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea6);
+            chartArea2.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea2);
             this.chart1.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend6.Name = "Legend1";
-            this.chart1.Legends.Add(legend6);
+            legend2.Name = "Legend1";
+            this.chart1.Legends.Add(legend2);
             this.chart1.Location = new System.Drawing.Point(0, 0);
             this.chart1.Name = "chart1";
-            series11.ChartArea = "ChartArea1";
-            series11.Legend = "Legend1";
-            series11.Name = "Series1";
-            series12.ChartArea = "ChartArea1";
-            series12.Legend = "Legend1";
-            series12.Name = "Series2";
-            this.chart1.Series.Add(series11);
-            this.chart1.Series.Add(series12);
+            series3.ChartArea = "ChartArea1";
+            series3.Legend = "Legend1";
+            series3.Name = "Series1";
+            series4.ChartArea = "ChartArea1";
+            series4.Legend = "Legend1";
+            series4.Name = "Series2";
+            this.chart1.Series.Add(series3);
+            this.chart1.Series.Add(series4);
             this.chart1.Size = new System.Drawing.Size(214, 115);
             this.chart1.TabIndex = 1;
             this.chart1.Text = "chart1";
@@ -906,16 +941,6 @@
             // categoriesTableAdapter1
             // 
             this.categoriesTableAdapter1.ClearBeforeFill = true;
-            // 
-            // button14
-            // 
-            this.button14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button14.Location = new System.Drawing.Point(342, 291);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(173, 31);
-            this.button14.TabIndex = 114;
-            this.button14.Text = "TODO : Group by 日期 / 大小";
-            this.button14.UseVisualStyleBackColor = false;
             // 
             // FrmLINQ_To_XXX
             // 

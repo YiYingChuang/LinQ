@@ -28,23 +28,147 @@ D:\隨身碟\KingStone\MSIT VS2012\LINQ (MSIT 95)\LINQ Demo (專業版)\StartUp 
 E:\LINQ\Starter Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
 E:\LINQ\Starter Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
 E:\LINQ\Starter Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\上課\LINQ\linq\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+E:\上課\LINQ\linq\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
+E:\上課\LINQ\linq\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindDataSetModel.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindDataSetModel.pdb
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_01_HelloLINQ.FrmHelloLINQ.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.FrmLINQToDataSet.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToSQL.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToXML_JSON_EXCEL.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQLabs.csproj.GenerateResource.Cache
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQLabs.csprojResolveAssemblyReference.cache
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Microsoft.CSharp.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Data.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Deployment.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Drawing.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Windows.Forms.DataVisualization.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Windows.Forms.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Xml.dll
+E:\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Xml.Linq.dll
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.SqlServer.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Microsoft.CSharp.dll
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindDataSetModel.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindEntityModel.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Data.DataSetExtensions.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Data.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Deployment.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Drawing.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Windows.Forms.DataVisualization.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Windows.Forms.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Xml.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Xml.Linq.dll
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindDataSetModel.pdb
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindEntityModel.pdb
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.xml
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.SqlServer.xml
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\zh-Hant\EntityFramework.resources.dll
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQLabs.csprojResolveAssemblyReference.cache
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_01_HelloLINQ.FrmHelloLINQ.resources
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
-E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.FrmLINQToDataSet.resources
-E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToSQL.resources
-E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToXML_JSON_EXCEL.resources
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQLabs.csproj.GenerateResource.Cache
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
 E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb
-E:\上課\LINQ\linq\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
-E:\上課\LINQ\linq\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
-E:\上課\LINQ\linq\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\MyLINQ.FrmLinqToDataSet.resources
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\MyLINQ.StartupLabs.FrmLinqToXML_JSON_EXCEL.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LINQLabs.csprojResolveAssemblyReference.cache
+C:\test\msit 105 linq\LinqLabs\obj\Debug\Lab_01_HelloLINQ.FrmHelloLINQ.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToEntity.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\MyLINQ.FrmLinqToDataSet.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\MyLINQ.StartupLabs.FrmLinqToXML_JSON_EXCEL.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LinqLabs.Form1.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LINQLabs.csproj.GenerateResource.Cache
+C:\test\msit 105 linq\LinqLabs\bin\Debug\LinqLabs.exe.config
+C:\test\msit 105 linq\LinqLabs\bin\Debug\LinqLabs.exe
+C:\test\msit 105 linq\LinqLabs\bin\Debug\LinqLabs.pdb
+C:\test\msit 105 linq\LinqLabs\bin\Debug\EntityFramework.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\EntityFramework.SqlServer.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\Microsoft.CSharp.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\Newtonsoft.Json.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\NorthwindDataSetModel.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\NorthwindEntityModel.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Data.DataSetExtensions.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Data.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Deployment.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Drawing.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Windows.Forms.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Xml.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\System.Xml.Linq.dll
+C:\test\msit 105 linq\LinqLabs\bin\Debug\NorthwindDataSetModel.pdb
+C:\test\msit 105 linq\LinqLabs\bin\Debug\NorthwindEntityModel.pdb
+C:\test\msit 105 linq\LinqLabs\bin\Debug\EntityFramework.xml
+C:\test\msit 105 linq\LinqLabs\bin\Debug\EntityFramework.SqlServer.xml
+C:\test\msit 105 linq\LinqLabs\bin\Debug\Newtonsoft.Json.xml
+C:\test\msit 105 linq\LinqLabs\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LinqLabs.exe
+C:\test\msit 105 linq\LinqLabs\obj\Debug\LinqLabs.pdb
+H:\MSIT 上課\MSIT 105 LINQ\LinqLabs\bin\Debug\LinqLabs.exe.config
+H:\MSIT 上課\MSIT 105 LINQ\LinqLabs\obj\Debug\LinqLabs.exe
+H:\MSIT 上課\MSIT 105 LINQ\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Newtonsoft.Json.dll
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Newtonsoft.Json.xml
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToEntity.resources
+E:\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.FrmRelation_Tool.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe.config
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.exe
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.pdb
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.exe
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\LinqLabs.pdb
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.SqlServer.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Microsoft.CSharp.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Newtonsoft.Json.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindDataSetModel.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindEntityModel.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Data.DataSetExtensions.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Data.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Deployment.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Drawing.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Windows.Forms.DataVisualization.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Windows.Forms.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Xml.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\System.Xml.Linq.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindDataSetModel.pdb
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\NorthwindEntityModel.pdb
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.xml
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\EntityFramework.SqlServer.xml
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\Newtonsoft.Json.xml
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\bin\Debug\zh-Hant\EntityFramework.resources.dll
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQLabs.csprojResolveAssemblyReference.cache
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_01_HelloLINQ.FrmHelloLINQ.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_02_CSharp_3._0.FrmLangForLINQ.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Starter.FrmLINQ_To_XXX.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\Lab_03.FrmLINQ架構介紹_InsideLINQ.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQ.StartupLabs.FrmLINQToEntity.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\MyLINQ.FrmLinqToDataSet.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\MyLINQ.StartupLabs.FrmLinqToXML_JSON_EXCEL.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.FrmRelation_Tool.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LinqLabs.Properties.Resources.resources
+E:\上課\LINQ\Solution Labs\LINQLabs\LinqLabs\obj\Debug\LINQLabs.csproj.GenerateResource.Cache

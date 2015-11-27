@@ -1,5 +1,15 @@
+E:\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll.config
+E:\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll
+E:\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.pdb
+E:\Solution Labs\LINQLabs\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.dll
+E:\Solution Labs\LINQLabs\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.pdb
 E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll.config
 E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll
 E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.pdb
 E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.dll
 E:\LINQ\Solution Labs\LINQLabs\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.pdb
+C:\test\msit 105 linq\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll.config
+C:\test\msit 105 linq\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.dll
+C:\test\msit 105 linq\NorthwindDataSetModel\bin\Debug\NorthwindDataSetModel.pdb
+C:\test\msit 105 linq\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.dll
+C:\test\msit 105 linq\NorthwindDataSetModel\obj\Debug\NorthwindDataSetModel.pdb

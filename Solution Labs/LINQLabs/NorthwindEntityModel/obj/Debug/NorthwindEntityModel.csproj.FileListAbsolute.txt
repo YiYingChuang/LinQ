@@ -1,0 +1,22 @@
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\NorthwindEntityModel.dll.config
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\NorthwindEntityModel.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\NorthwindEntityModel.pdb
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\EntityFramework.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\EntityFramework.xml
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\obj\Debug\NorthwindEntityModel.csprojResolveAssemblyReference.cache
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\obj\Debug\NorthwindEntityModel.dll
+E:\LINQ\Solution Labs\LINQLabs\NorthwindEntityModel\obj\Debug\NorthwindEntityModel.pdb
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\NorthwindEntityModel.dll.config
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\NorthwindEntityModel.dll
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\NorthwindEntityModel.pdb
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\EntityFramework.dll
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\EntityFramework.xml
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\test\msit 105 linq\NorthwindEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\test\msit 105 linq\NorthwindEntityModel\obj\Debug\NorthwindEntityModel.csprojResolveAssemblyReference.cache
+C:\test\msit 105 linq\NorthwindEntityModel\obj\Debug\NorthwindEntityModel.dll
+C:\test\msit 105 linq\NorthwindEntityModel\obj\Debug\NorthwindEntityModel.pdb

@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series15 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series16 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.button26 = new System.Windows.Forms.Button();
             this.button23 = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
@@ -165,6 +165,7 @@
             this.button22.TabIndex = 112;
             this.button22.Text = "orderby , then by";
             this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
             // groupBox4
             // 
@@ -226,7 +227,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(533, 565);
+            this.tabPage2.Size = new System.Drawing.Size(611, 565);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Others";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -340,6 +341,7 @@
             this.button18_1.Text = "元素運算子:\r\nFirst/FirstOrDefault/Last/LastOrDefault/Single/SingleOrDefault/ElementAt/" +
     "ElementAtOrDefault/DefaultIfEmpty";
             this.button18_1.UseVisualStyleBackColor = true;
+            this.button18_1.Click += new System.EventHandler(this.button18_1_Click);
             // 
             // button29
             // 
@@ -430,23 +432,25 @@
             // 
             this.button4.BackColor = System.Drawing.SystemColors.Control;
             this.button4.ForeColor = System.Drawing.Color.Black;
-            this.button4.Location = new System.Drawing.Point(132, 247);
+            this.button4.Location = new System.Drawing.Point(82, 251);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 85;
             this.button4.Text = "上一頁";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button9
             // 
             this.button9.BackColor = System.Drawing.SystemColors.Control;
             this.button9.ForeColor = System.Drawing.Color.Black;
-            this.button9.Location = new System.Drawing.Point(32, 247);
+            this.button9.Location = new System.Drawing.Point(193, 251);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
             this.button9.TabIndex = 84;
             this.button9.Text = "下一頁";
             this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button32
             // 
@@ -481,6 +485,7 @@
             this.button21.TabIndex = 92;
             this.button21.Text = "SelectMany - inner join / Cross join";
             this.button21.UseVisualStyleBackColor = true;
+            this.button21.Click += new System.EventHandler(this.button21_Click);
             // 
             // tabControl1
             // 
@@ -490,7 +495,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(541, 591);
+            this.tabControl1.Size = new System.Drawing.Size(619, 591);
             this.tabControl1.TabIndex = 120;
             // 
             // tabPage1
@@ -504,7 +509,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(533, 565);
+            this.tabPage1.Size = new System.Drawing.Size(611, 565);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Basic (group / orderby / join)";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -647,6 +652,7 @@
             this.button13.TabIndex = 89;
             this.button13.Text = "2. 尋找各分類之平均單價 (Select Many)";
             this.button13.UseVisualStyleBackColor = false;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button8
             // 
@@ -658,6 +664,7 @@
             this.button8.TabIndex = 88;
             this.button8.Text = "尋找 低中高 價產品";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // Test
             // 
@@ -668,6 +675,7 @@
             this.Test.TabIndex = 87;
             this.Test.Text = "Test  ClsProductsData";
             this.Test.UseVisualStyleBackColor = true;
+            this.Test.Click += new System.EventHandler(this.Test_Click);
             // 
             // button10
             // 
@@ -690,6 +698,7 @@
             this.button11.TabIndex = 82;
             this.button11.Text = "3. 尋找各分類之平均單價 (點關連標記法, 導覽屬性) (Implicit Inner Join) ";
             this.button11.UseVisualStyleBackColor = false;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // groupBox3
             // 
@@ -714,6 +723,7 @@
             this.button20.TabIndex = 91;
             this.button20.Text = "join (inner join) / join into .. (left outer join).";
             this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.button20_Click);
             // 
             // button16
             // 
@@ -723,6 +733,7 @@
             this.button16.TabIndex = 86;
             this.button16.Text = "點關連標記法 (left out join)";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // dataGridView1
             // 
@@ -731,7 +742,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(443, 175);
+            this.dataGridView1.Size = new System.Drawing.Size(365, 175);
             this.dataGridView1.TabIndex = 0;
             // 
             // dataGridView2
@@ -741,7 +752,7 @@
             this.dataGridView2.Location = new System.Drawing.Point(0, 0);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowTemplate.Height = 24;
-            this.dataGridView2.Size = new System.Drawing.Size(388, 145);
+            this.dataGridView2.Size = new System.Drawing.Size(319, 145);
             this.dataGridView2.TabIndex = 0;
             // 
             // splitContainer4
@@ -758,7 +769,7 @@
             // splitContainer4.Panel2
             // 
             this.splitContainer4.Panel2.Controls.Add(this.listView1);
-            this.splitContainer4.Size = new System.Drawing.Size(443, 293);
+            this.splitContainer4.Size = new System.Drawing.Size(365, 293);
             this.splitContainer4.SplitterDistance = 145;
             this.splitContainer4.TabIndex = 1;
             // 
@@ -776,8 +787,8 @@
             // splitContainer6.Panel2
             // 
             this.splitContainer6.Panel2.Controls.Add(this.dataGridView3);
-            this.splitContainer6.Size = new System.Drawing.Size(443, 145);
-            this.splitContainer6.SplitterDistance = 388;
+            this.splitContainer6.Size = new System.Drawing.Size(365, 145);
+            this.splitContainer6.SplitterDistance = 319;
             this.splitContainer6.SplitterWidth = 3;
             this.splitContainer6.TabIndex = 1;
             // 
@@ -789,7 +800,7 @@
             this.dataGridView3.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.RowTemplate.Height = 27;
-            this.dataGridView3.Size = new System.Drawing.Size(52, 145);
+            this.dataGridView3.Size = new System.Drawing.Size(43, 145);
             this.dataGridView3.TabIndex = 0;
             // 
             // listView1
@@ -797,7 +808,7 @@
             this.listView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listView1.Location = new System.Drawing.Point(0, 0);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(443, 144);
+            this.listView1.Size = new System.Drawing.Size(365, 144);
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
@@ -815,7 +826,7 @@
             // splitContainer3.Panel2
             // 
             this.splitContainer3.Panel2.Controls.Add(this.splitContainer5);
-            this.splitContainer3.Size = new System.Drawing.Size(443, 412);
+            this.splitContainer3.Size = new System.Drawing.Size(365, 412);
             this.splitContainer3.SplitterDistance = 293;
             this.splitContainer3.TabIndex = 0;
             // 
@@ -832,28 +843,28 @@
             // splitContainer5.Panel2
             // 
             this.splitContainer5.Panel2.Controls.Add(this.treeView1);
-            this.splitContainer5.Size = new System.Drawing.Size(443, 115);
-            this.splitContainer5.SplitterDistance = 271;
+            this.splitContainer5.Size = new System.Drawing.Size(365, 115);
+            this.splitContainer5.SplitterDistance = 223;
             this.splitContainer5.TabIndex = 3;
             // 
             // chart1
             // 
-            chartArea2.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea2);
+            chartArea8.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea8);
             this.chart1.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend2.Name = "Legend1";
-            this.chart1.Legends.Add(legend2);
+            legend8.Name = "Legend1";
+            this.chart1.Legends.Add(legend8);
             this.chart1.Location = new System.Drawing.Point(0, 0);
             this.chart1.Name = "chart1";
-            series3.ChartArea = "ChartArea1";
-            series3.Legend = "Legend1";
-            series3.Name = "Series1";
-            series4.ChartArea = "ChartArea1";
-            series4.Legend = "Legend1";
-            series4.Name = "Series2";
-            this.chart1.Series.Add(series3);
-            this.chart1.Series.Add(series4);
-            this.chart1.Size = new System.Drawing.Size(271, 115);
+            series15.ChartArea = "ChartArea1";
+            series15.Legend = "Legend1";
+            series15.Name = "Series1";
+            series16.ChartArea = "ChartArea1";
+            series16.Legend = "Legend1";
+            series16.Name = "Series2";
+            this.chart1.Series.Add(series15);
+            this.chart1.Series.Add(series16);
+            this.chart1.Size = new System.Drawing.Size(223, 115);
             this.chart1.TabIndex = 1;
             this.chart1.Text = "chart1";
             // 
@@ -862,7 +873,7 @@
             this.treeView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.treeView1.Location = new System.Drawing.Point(0, 0);
             this.treeView1.Name = "treeView1";
-            this.treeView1.Size = new System.Drawing.Size(168, 115);
+            this.treeView1.Size = new System.Drawing.Size(138, 115);
             this.treeView1.TabIndex = 2;
             // 
             // splitContainer2
@@ -879,7 +890,7 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.splitContainer3);
-            this.splitContainer2.Size = new System.Drawing.Size(443, 591);
+            this.splitContainer2.Size = new System.Drawing.Size(365, 591);
             this.splitContainer2.SplitterDistance = 175;
             this.splitContainer2.TabIndex = 0;
             // 
@@ -898,7 +909,7 @@
             // 
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
             this.splitContainer1.Size = new System.Drawing.Size(988, 591);
-            this.splitContainer1.SplitterDistance = 541;
+            this.splitContainer1.SplitterDistance = 619;
             this.splitContainer1.TabIndex = 5;
             // 
             // FrmLINQ_To_XXX

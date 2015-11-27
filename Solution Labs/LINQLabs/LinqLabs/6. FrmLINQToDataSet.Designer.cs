@@ -1,6 +1,9 @@
-﻿namespace LINQ
+﻿using MyLINQ;
+using NorthwindDataSetModel;
+using NorthwindDataSetModel.NorthwindDataSetTableAdapters;
+namespace MyLINQ
 {
-    partial class FrmLINQToDataSet
+    partial class FrmLinqToDataSet
     {
         /// <summary>
         /// Required designer variable.
@@ -28,9 +31,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
@@ -43,18 +46,24 @@
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.button2 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
             this.splitContainer4 = new System.Windows.Forms.SplitContainer();
+            this.splitContainer6 = new System.Windows.Forms.SplitContainer();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.dataGridView3 = new System.Windows.Forms.DataGridView();
             this.listView1 = new System.Windows.Forms.ListView();
             this.splitContainer5 = new System.Windows.Forms.SplitContainer();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.treeView1 = new System.Windows.Forms.TreeView();
+            this.northwindDataSet1 = new NorthwindDataSetModel.NorthwindDataSet();
+            this.categoriesTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.CategoriesTableAdapter();
+            this.customersTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.CustomersTableAdapter();
+            this.productsTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.ProductsTableAdapter();
+            this.ordersTableAdapter1 = new NorthwindDataSetModel.NorthwindDataSetTableAdapters.OrdersTableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -74,12 +83,18 @@
             this.splitContainer4.Panel1.SuspendLayout();
             this.splitContainer4.Panel2.SuspendLayout();
             this.splitContainer4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer6)).BeginInit();
+            this.splitContainer6.Panel1.SuspendLayout();
+            this.splitContainer6.Panel2.SuspendLayout();
+            this.splitContainer6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer5)).BeginInit();
             this.splitContainer5.Panel1.SuspendLayout();
             this.splitContainer5.Panel2.SuspendLayout();
             this.splitContainer5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.northwindDataSet1)).BeginInit();
             this.SuspendLayout();
             // 
             // splitContainer1
@@ -93,6 +108,7 @@
             this.splitContainer1.Panel1.Controls.Add(this.button1);
             this.splitContainer1.Panel1.Controls.Add(this.groupBox6);
             this.splitContainer1.Panel1.Controls.Add(this.groupBox5);
+            this.splitContainer1.Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.splitContainer1_Panel1_Paint);
             // 
             // splitContainer1.Panel2
             // 
@@ -110,6 +126,7 @@
             this.button1.TabIndex = 112;
             this.button1.Text = "UnTyped DataSet";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // groupBox6
             // 
@@ -124,17 +141,20 @@
             this.groupBox6.Size = new System.Drawing.Size(276, 130);
             this.groupBox6.TabIndex = 111;
             this.groupBox6.TabStop = false;
-            this.groupBox6.Text = "LINQ to Typed DataSet";
+            this.groupBox6.Text = "Linq to Typed DataSet";
             // 
             // button18
             // 
+            this.button18.BackColor = System.Drawing.Color.Blue;
+            this.button18.ForeColor = System.Drawing.Color.White;
             this.button18.Location = new System.Drawing.Point(208, 23);
             this.button18.Margin = new System.Windows.Forms.Padding(2);
             this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(56, 18);
+            this.button18.Size = new System.Drawing.Size(56, 21);
             this.button18.TabIndex = 112;
             this.button18.Text = "鑽研";
-            this.button18.UseVisualStyleBackColor = true;
+            this.button18.UseVisualStyleBackColor = false;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
             // 
             // button8
             // 
@@ -146,6 +166,7 @@
             this.button8.TabIndex = 88;
             this.button8.Text = "尋找 低中高 價產品";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button15
             // 
@@ -155,28 +176,31 @@
             this.button15.TabIndex = 1;
             this.button15.Text = "Group  Orders  by Year";
             this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button4
             // 
             this.button4.BackColor = System.Drawing.SystemColors.Control;
             this.button4.ForeColor = System.Drawing.Color.Black;
-            this.button4.Location = new System.Drawing.Point(101, 59);
+            this.button4.Location = new System.Drawing.Point(20, 57);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 85;
             this.button4.Text = "上一頁";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button9
             // 
             this.button9.BackColor = System.Drawing.SystemColors.Control;
             this.button9.ForeColor = System.Drawing.Color.Black;
-            this.button9.Location = new System.Drawing.Point(20, 59);
+            this.button9.Location = new System.Drawing.Point(110, 57);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
             this.button9.TabIndex = 84;
             this.button9.Text = "下一頁";
             this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button14
             // 
@@ -186,12 +210,12 @@
             this.button14.TabIndex = 0;
             this.button14.Text = "Products";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // groupBox5
             // 
             this.groupBox5.Controls.Add(this.button2);
             this.groupBox5.Controls.Add(this.button13);
-            this.groupBox5.Controls.Add(this.button16);
             this.groupBox5.Controls.Add(this.button10);
             this.groupBox5.Controls.Add(this.button11);
             this.groupBox5.Location = new System.Drawing.Point(18, 166);
@@ -199,7 +223,7 @@
             this.groupBox5.Size = new System.Drawing.Size(364, 190);
             this.groupBox5.TabIndex = 109;
             this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "LINQ to Typed DataSet";
+            this.groupBox5.Text = "Linq to Typed DataSet";
             // 
             // button2
             // 
@@ -210,6 +234,7 @@
             this.button2.TabIndex = 90;
             this.button2.Text = "categoryProductsTableAdapter1";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button13
             // 
@@ -222,15 +247,7 @@
             this.button13.TabIndex = 89;
             this.button13.Text = "2. 尋找各分類之平均單價 (Select Many)";
             this.button13.UseVisualStyleBackColor = false;
-            // 
-            // button16
-            // 
-            this.button16.Location = new System.Drawing.Point(283, 106);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(74, 23);
-            this.button16.TabIndex = 86;
-            this.button16.Text = "GetParentRow()";
-            this.button16.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button10
             // 
@@ -242,6 +259,7 @@
             this.button10.TabIndex = 83;
             this.button10.Text = "1. 尋找各分類之平均單價 (Inner Join)";
             this.button10.UseVisualStyleBackColor = false;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button11
             // 
@@ -253,6 +271,7 @@
             this.button11.TabIndex = 82;
             this.button11.Text = "3. 尋找各分類之平均單價 (GetParentRow) ";
             this.button11.UseVisualStyleBackColor = false;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // splitContainer2
             // 
@@ -281,6 +300,7 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(341, 119);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.dataGridView1_DataError);
             // 
             // splitContainer3
             // 
@@ -309,7 +329,7 @@
             // 
             // splitContainer4.Panel1
             // 
-            this.splitContainer4.Panel1.Controls.Add(this.dataGridView2);
+            this.splitContainer4.Panel1.Controls.Add(this.splitContainer6);
             // 
             // splitContainer4.Panel2
             // 
@@ -318,6 +338,23 @@
             this.splitContainer4.SplitterDistance = 57;
             this.splitContainer4.TabIndex = 1;
             // 
+            // splitContainer6
+            // 
+            this.splitContainer6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer6.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer6.Name = "splitContainer6";
+            // 
+            // splitContainer6.Panel1
+            // 
+            this.splitContainer6.Panel1.Controls.Add(this.dataGridView2);
+            // 
+            // splitContainer6.Panel2
+            // 
+            this.splitContainer6.Panel2.Controls.Add(this.dataGridView3);
+            this.splitContainer6.Size = new System.Drawing.Size(341, 57);
+            this.splitContainer6.SplitterDistance = 113;
+            this.splitContainer6.TabIndex = 114;
+            // 
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -325,8 +362,19 @@
             this.dataGridView2.Location = new System.Drawing.Point(0, 0);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowTemplate.Height = 24;
-            this.dataGridView2.Size = new System.Drawing.Size(341, 57);
+            this.dataGridView2.Size = new System.Drawing.Size(113, 57);
             this.dataGridView2.TabIndex = 0;
+            this.dataGridView2.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.dataGridView2_DataError);
+            // 
+            // dataGridView3
+            // 
+            this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridView3.Location = new System.Drawing.Point(0, 0);
+            this.dataGridView3.Name = "dataGridView3";
+            this.dataGridView3.RowTemplate.Height = 24;
+            this.dataGridView3.Size = new System.Drawing.Size(224, 57);
+            this.dataGridView3.TabIndex = 0;
             // 
             // listView1
             // 
@@ -356,17 +404,17 @@
             // 
             // chart1
             // 
-            chartArea1.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea1);
+            chartArea2.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea2);
             this.chart1.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend1.Name = "Legend1";
-            this.chart1.Legends.Add(legend1);
+            legend2.Name = "Legend1";
+            this.chart1.Legends.Add(legend2);
             this.chart1.Location = new System.Drawing.Point(0, 0);
             this.chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            this.chart1.Series.Add(series1);
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.chart1.Series.Add(series2);
             this.chart1.Size = new System.Drawing.Size(207, 297);
             this.chart1.TabIndex = 1;
             this.chart1.Text = "chart1";
@@ -379,14 +427,35 @@
             this.treeView1.Size = new System.Drawing.Size(130, 297);
             this.treeView1.TabIndex = 2;
             // 
-            // FrmLINQToDataSet
+            // northwindDataSet1
+            // 
+            this.northwindDataSet1.DataSetName = "NorthwindDataSet";
+            this.northwindDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // categoriesTableAdapter1
+            // 
+            this.categoriesTableAdapter1.ClearBeforeFill = true;
+            // 
+            // customersTableAdapter1
+            // 
+            this.customersTableAdapter1.ClearBeforeFill = true;
+            // 
+            // productsTableAdapter1
+            // 
+            this.productsTableAdapter1.ClearBeforeFill = true;
+            // 
+            // ordersTableAdapter1
+            // 
+            this.ordersTableAdapter1.ClearBeforeFill = true;
+            // 
+            // FrmLinqToDataSet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(704, 546);
             this.Controls.Add(this.splitContainer1);
-            this.Name = "FrmLINQToDataSet";
-            this.Text = "FrmLINQToDataSet";
+            this.Name = "FrmLinqToDataSet";
+            this.Text = "FrmLinqToDataSet";
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
@@ -406,12 +475,18 @@
             this.splitContainer4.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer4)).EndInit();
             this.splitContainer4.ResumeLayout(false);
+            this.splitContainer6.Panel1.ResumeLayout(false);
+            this.splitContainer6.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer6)).EndInit();
+            this.splitContainer6.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
             this.splitContainer5.Panel1.ResumeLayout(false);
             this.splitContainer5.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer5)).EndInit();
             this.splitContainer5.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.northwindDataSet1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -430,7 +505,6 @@
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.Button button11;
         private System.Windows.Forms.SplitContainer splitContainer2;
@@ -442,5 +516,13 @@
         private System.Windows.Forms.SplitContainer splitContainer5;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
         private System.Windows.Forms.TreeView treeView1;
+        
+        private System.Windows.Forms.SplitContainer splitContainer6;
+        private System.Windows.Forms.DataGridView dataGridView3;
+        private NorthwindDataSet northwindDataSet1;
+        private CategoriesTableAdapter categoriesTableAdapter1;
+        private CustomersTableAdapter customersTableAdapter1;
+        private ProductsTableAdapter productsTableAdapter1;
+        private OrdersTableAdapter ordersTableAdapter1;
     }
 }

@@ -127,4 +127,7 @@ Context 基底引擎會做檢查, 判斷是否此物件已經被載入記憶體
 第二次查詢 只會從 DB 抓不存在的 Entity Object  (除非強迫 refresh) 
 </value>
   </data>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

@@ -32,17 +32,50 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Windows.Forms.DataVisualization" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms.DataVisualization">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1. FrmHelloLINQ.cs">
@@ -69,23 +102,30 @@
     <Compile Include="3. FrmLINQ架構介紹_InsideLINQ.Designer.cs">
       <DependentUpon>3. FrmLINQ架構介紹_InsideLINQ.cs</DependentUpon>
     </Compile>
-    <Compile Include="6. FrmLINQToDataSet.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="6. FrmLINQToDataSet.Designer.cs">
-      <DependentUpon>6. FrmLINQToDataSet.cs</DependentUpon>
-    </Compile>
     <Compile Include="5. FrmLINQToEntity.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="5. FrmLINQToEntity.designer.cs">
       <DependentUpon>5. FrmLINQToEntity.cs</DependentUpon>
     </Compile>
-    <Compile Include="7. FrmLINQToXML_JSON.cs">
+    <Compile Include="6. FrmLINQToDataSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6. FrmLINQToDataSet.Designer.cs">
+      <DependentUpon>6. FrmLINQToDataSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7. FrmLinqToXML_JSON.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="7. FrmLINQToXML_JSON.designer.cs">
-      <DependentUpon>7. FrmLINQToXML_JSON.cs</DependentUpon>
+      <DependentUpon>7. FrmLinqToXML_JSON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClsProductsData.cs" />
+    <Compile Include="8. FrmRelation_Tool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8. FrmRelation_Tool.Designer.cs">
+      <DependentUpon>8. FrmRelation_Tool.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,14 +141,17 @@
     <EmbeddedResource Include="3. FrmLINQ架構介紹_InsideLINQ.resx">
       <DependentUpon>3. FrmLINQ架構介紹_InsideLINQ.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="6. FrmLINQToDataSet.resx">
-      <DependentUpon>6. FrmLINQToDataSet.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="5. FrmLINQToEntity.resx">
       <DependentUpon>5. FrmLINQToEntity.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="6. FrmLINQToDataSet.resx">
+      <DependentUpon>6. FrmLINQToDataSet.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="7. FrmLINQToXML_JSON.resx">
-      <DependentUpon>7. FrmLINQToXML_JSON.cs</DependentUpon>
+      <DependentUpon>7. FrmLinqToXML_JSON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8. FrmRelation_Tool.resx">
+      <DependentUpon>8. FrmRelation_Tool.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -119,6 +162,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="JsonapiAccess.json" />
+    <None Include="JsonRecipes.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\NorthwindDataSetModel.NorthwindDataSet.datasource" />
+    <None Include="Properties\DataSources\NorthwindEntityModel.Category.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -137,6 +185,13 @@
       <Project>{21bbc08f-e57d-43ca-8c5d-39c67724371e}</Project>
       <Name>NorthwindDataSetModel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\NorthwindEntityModel\NorthwindEntityModel.csproj">
+      <Project>{e10b9508-0f2b-4cf9-bec6-8f4c19783615}</Project>
+      <Name>NorthwindEntityModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Weather.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

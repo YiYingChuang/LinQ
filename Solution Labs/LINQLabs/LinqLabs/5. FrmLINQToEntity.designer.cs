@@ -1,6 +1,6 @@
 ﻿namespace LINQ.StartupLabs
 {
-    partial class FrmLINQToSQL
+    partial class FrmLINQToEntity
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmLINQToSQL));
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmLINQToEntity));
             this.button36 = new System.Windows.Forms.Button();
             this.button50 = new System.Windows.Forms.Button();
             this.button38 = new System.Windows.Forms.Button();
@@ -51,7 +52,7 @@
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.splitContainer4 = new System.Windows.Forms.SplitContainer();
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
             this.label11 = new System.Windows.Forms.Label();
@@ -66,6 +67,9 @@
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
             this.label14 = new System.Windows.Forms.Label();
             this.button8 = new System.Windows.Forms.Button();
@@ -77,10 +81,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.label10 = new System.Windows.Forms.Label();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.button4 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button20 = new System.Windows.Forms.Button();
             this.button43 = new System.Windows.Forms.Button();
@@ -94,6 +95,13 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.button68 = new System.Windows.Forms.Button();
+            this.label10 = new System.Windows.Forms.Label();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.clearToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.button5 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer6)).BeginInit();
@@ -124,14 +132,15 @@
             this.groupBox5.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.tabPage2.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
-            this.groupBox1.SuspendLayout();
-            this.groupBox3.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // button36
@@ -144,6 +153,7 @@
             this.button36.TabIndex = 19;
             this.button36.Text = "排序: OrderBy/ ThenBy";
             this.button36.UseVisualStyleBackColor = true;
+            this.button36.Click += new System.EventHandler(this.button36_Click);
             // 
             // button50
             // 
@@ -156,6 +166,7 @@
             this.button50.TabIndex = 88;
             this.button50.Text = " 有下訂單的客戶   Any All - exits";
             this.button50.UseVisualStyleBackColor = false;
+            this.button50.Click += new System.EventHandler(this.button50_Click);
             // 
             // button38
             // 
@@ -168,6 +179,7 @@
             this.button38.TabIndex = 87;
             this.button38.Text = "找出Employees的資料, 在 Orders 中 1997-1-1 至 1997-1-5 之間有下過訂單的員工 (Any)";
             this.button38.UseVisualStyleBackColor = false;
+            this.button38.Click += new System.EventHandler(this.button38_Click);
             // 
             // button45
             // 
@@ -199,6 +211,7 @@
             this.button23.TabIndex = 95;
             this.button23.Text = "價錢高, 訂單又不多的產品 (點關連標記法)";
             this.button23.UseVisualStyleBackColor = false;
+            this.button23.Click += new System.EventHandler(this.button23_Click);
             // 
             // button47
             // 
@@ -220,6 +233,7 @@
             this.button21.TabIndex = 93;
             this.button21.Text = "每個群組的 unitPrice 都大於 20 (All)";
             this.button21.UseVisualStyleBackColor = false;
+            this.button21.Click += new System.EventHandler(this.button21_Click);
             // 
             // button48
             // 
@@ -241,6 +255,7 @@
             this.button33.TabIndex = 21;
             this.button33.Text = "Reverse";
             this.button33.UseVisualStyleBackColor = true;
+            this.button33.Click += new System.EventHandler(this.button33_Click);
             // 
             // button31
             // 
@@ -251,6 +266,7 @@
             this.button31.TabIndex = 96;
             this.button31.Text = "Order - IComparable  自訂排序";
             this.button31.UseVisualStyleBackColor = true;
+            this.button31.Click += new System.EventHandler(this.button31_Click);
             // 
             // button49
             // 
@@ -283,6 +299,7 @@
             this.button34.TabIndex = 3;
             this.button34.Text = "排序: OrderBy/OrderByDescending/ ThenBy/ThenByDescending/Reverse";
             this.button34.UseVisualStyleBackColor = true;
+            this.button34.Click += new System.EventHandler(this.button34_Click);
             // 
             // dataGridView3
             // 
@@ -292,7 +309,7 @@
             this.dataGridView3.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.RowTemplate.Height = 27;
-            this.dataGridView3.Size = new System.Drawing.Size(235, 259);
+            this.dataGridView3.Size = new System.Drawing.Size(196, 259);
             this.dataGridView3.TabIndex = 11;
             // 
             // dataGridView4
@@ -303,7 +320,7 @@
             this.dataGridView4.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView4.Name = "dataGridView4";
             this.dataGridView4.RowTemplate.Height = 27;
-            this.dataGridView4.Size = new System.Drawing.Size(257, 259);
+            this.dataGridView4.Size = new System.Drawing.Size(214, 259);
             this.dataGridView4.TabIndex = 12;
             // 
             // splitContainer6
@@ -320,8 +337,8 @@
             // splitContainer6.Panel2
             // 
             this.splitContainer6.Panel2.Controls.Add(this.dataGridView4);
-            this.splitContainer6.Size = new System.Drawing.Size(495, 259);
-            this.splitContainer6.SplitterDistance = 235;
+            this.splitContainer6.Size = new System.Drawing.Size(413, 259);
+            this.splitContainer6.SplitterDistance = 196;
             this.splitContainer6.SplitterWidth = 3;
             this.splitContainer6.TabIndex = 13;
             // 
@@ -339,8 +356,8 @@
             // splitContainer5.Panel2
             // 
             this.splitContainer5.Panel2.Controls.Add(this.dataGridView2);
-            this.splitContainer5.Size = new System.Drawing.Size(495, 136);
-            this.splitContainer5.SplitterDistance = 264;
+            this.splitContainer5.Size = new System.Drawing.Size(413, 136);
+            this.splitContainer5.SplitterDistance = 220;
             this.splitContainer5.SplitterWidth = 3;
             this.splitContainer5.TabIndex = 12;
             // 
@@ -351,7 +368,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(264, 136);
+            this.dataGridView1.Size = new System.Drawing.Size(220, 136);
             this.dataGridView1.TabIndex = 10;
             // 
             // dataGridView2
@@ -361,7 +378,7 @@
             this.dataGridView2.Location = new System.Drawing.Point(0, 0);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowTemplate.Height = 24;
-            this.dataGridView2.Size = new System.Drawing.Size(228, 136);
+            this.dataGridView2.Size = new System.Drawing.Size(190, 136);
             this.dataGridView2.TabIndex = 11;
             // 
             // splitContainer4
@@ -378,7 +395,7 @@
             // splitContainer4.Panel2
             // 
             this.splitContainer4.Panel2.Controls.Add(this.splitContainer6);
-            this.splitContainer4.Size = new System.Drawing.Size(495, 399);
+            this.splitContainer4.Size = new System.Drawing.Size(413, 399);
             this.splitContainer4.SplitterDistance = 136;
             this.splitContainer4.TabIndex = 0;
             // 
@@ -391,31 +408,30 @@
             // 
             // splitContainer3.Panel1
             // 
-            this.splitContainer3.Panel1.Controls.Add(this.listBox1);
+            this.splitContainer3.Panel1.Controls.Add(this.richTextBox1);
             // 
             // splitContainer3.Panel2
             // 
             this.splitContainer3.Panel2.Controls.Add(this.treeView1);
-            this.splitContainer3.Size = new System.Drawing.Size(495, 170);
+            this.splitContainer3.Size = new System.Drawing.Size(413, 170);
             this.splitContainer3.SplitterDistance = 66;
             this.splitContainer3.TabIndex = 0;
             // 
-            // listBox1
+            // richTextBox1
             // 
-            this.listBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 12;
-            this.listBox1.Location = new System.Drawing.Point(0, 0);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(495, 66);
-            this.listBox1.TabIndex = 9;
+            this.richTextBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.richTextBox1.Location = new System.Drawing.Point(0, 0);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(413, 66);
+            this.richTextBox1.TabIndex = 0;
+            this.richTextBox1.Text = "";
             // 
             // treeView1
             // 
             this.treeView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.treeView1.Location = new System.Drawing.Point(0, 0);
             this.treeView1.Name = "treeView1";
-            this.treeView1.Size = new System.Drawing.Size(495, 100);
+            this.treeView1.Size = new System.Drawing.Size(413, 100);
             this.treeView1.TabIndex = 13;
             // 
             // splitContainer2
@@ -432,7 +448,7 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.splitContainer4);
-            this.splitContainer2.Size = new System.Drawing.Size(495, 573);
+            this.splitContainer2.Size = new System.Drawing.Size(413, 573);
             this.splitContainer2.SplitterDistance = 170;
             this.splitContainer2.TabIndex = 0;
             // 
@@ -449,33 +465,36 @@
             // 
             // button53
             // 
-            this.button53.Location = new System.Drawing.Point(52, 146);
+            this.button53.Location = new System.Drawing.Point(52, 212);
             this.button53.Margin = new System.Windows.Forms.Padding(2);
             this.button53.Name = "button53";
             this.button53.Size = new System.Drawing.Size(95, 18);
             this.button53.TabIndex = 108;
             this.button53.Text = "Delete";
             this.button53.UseVisualStyleBackColor = true;
+            this.button53.Click += new System.EventHandler(this.button53_Click);
             // 
             // button54
             // 
-            this.button54.Location = new System.Drawing.Point(52, 180);
+            this.button54.Location = new System.Drawing.Point(52, 246);
             this.button54.Margin = new System.Windows.Forms.Padding(2);
             this.button54.Name = "button54";
             this.button54.Size = new System.Drawing.Size(95, 18);
             this.button54.TabIndex = 107;
             this.button54.Text = "DeleteAll";
             this.button54.UseVisualStyleBackColor = true;
+            this.button54.Click += new System.EventHandler(this.button54_Click);
             // 
             // button56
             // 
-            this.button56.Location = new System.Drawing.Point(52, 112);
+            this.button56.Location = new System.Drawing.Point(52, 178);
             this.button56.Margin = new System.Windows.Forms.Padding(2);
             this.button56.Name = "button56";
             this.button56.Size = new System.Drawing.Size(95, 18);
             this.button56.TabIndex = 105;
             this.button56.Text = "Update";
             this.button56.UseVisualStyleBackColor = true;
+            this.button56.Click += new System.EventHandler(this.button56_Click);
             // 
             // button57
             // 
@@ -486,9 +505,11 @@
             this.button57.TabIndex = 104;
             this.button57.Text = "Read";
             this.button57.UseVisualStyleBackColor = true;
+            this.button57.Click += new System.EventHandler(this.button57_Click);
             // 
             // tabPage4
             // 
+            this.tabPage4.Controls.Add(this.button5);
             this.tabPage4.Controls.Add(this.button19);
             this.tabPage4.Controls.Add(this.label11);
             this.tabPage4.Controls.Add(this.button53);
@@ -498,14 +519,14 @@
             this.tabPage4.Controls.Add(this.button57);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(396, 547);
+            this.tabPage4.Size = new System.Drawing.Size(478, 547);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "資料更新";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // button19
             // 
-            this.button19.Location = new System.Drawing.Point(194, 41);
+            this.button19.Location = new System.Drawing.Point(204, 76);
             this.button19.Margin = new System.Windows.Forms.Padding(2);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(158, 38);
@@ -515,13 +536,14 @@
             // 
             // button55
             // 
-            this.button55.Location = new System.Drawing.Point(52, 41);
+            this.button55.Location = new System.Drawing.Point(52, 142);
             this.button55.Margin = new System.Windows.Forms.Padding(2);
             this.button55.Name = "button55";
             this.button55.Size = new System.Drawing.Size(95, 18);
             this.button55.TabIndex = 106;
             this.button55.Text = "Create(Insert)";
             this.button55.UseVisualStyleBackColor = true;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
             // 
             // groupBox7
             // 
@@ -552,7 +574,7 @@
             this.tabPage5.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage5.Size = new System.Drawing.Size(396, 547);
+            this.tabPage5.Size = new System.Drawing.Size(478, 547);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Query DB (2)";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -576,6 +598,9 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.button2);
+            this.groupBox2.Controls.Add(this.button1);
             this.groupBox2.Controls.Add(this.button22);
             this.groupBox2.Controls.Add(this.label14);
             this.groupBox2.Controls.Add(this.button8);
@@ -587,10 +612,42 @@
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Location = new System.Drawing.Point(28, 41);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(361, 530);
+            this.groupBox2.Size = new System.Drawing.Size(392, 530);
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "1. My Object Model";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.SystemColors.Control;
+            this.label2.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label2.ForeColor = System.Drawing.Color.Red;
+            this.label2.Location = new System.Drawing.Point(8, 202);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(82, 12);
+            this.label2.TabIndex = 98;
+            this.label2.Text = "IQuerable<T>";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(263, 90);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 97;
+            this.button2.Text = "test";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(263, 60);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 96;
+            this.button1.Text = "test";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button22
             // 
@@ -603,6 +660,7 @@
             this.button22.TabIndex = 95;
             this.button22.Text = "Refresh from DB";
             this.button22.UseVisualStyleBackColor = false;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
             // label14
             // 
@@ -645,6 +703,7 @@
             this.button7.TabIndex = 23;
             this.button7.Text = "DB.log";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
@@ -656,6 +715,7 @@
             this.button6.TabIndex = 20;
             this.button6.Text = " DataContext / Entity Table / Entity Object";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button3
             // 
@@ -665,6 +725,7 @@
             this.button3.TabIndex = 13;
             this.button3.Text = "Call Stored Procedure";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label3
             // 
@@ -703,6 +764,7 @@
             // tabPage2
             // 
             this.tabPage2.AutoScroll = true;
+            this.tabPage2.Controls.Add(this.button4);
             this.tabPage2.Controls.Add(this.groupBox1);
             this.tabPage2.Controls.Add(this.button15);
             this.tabPage2.Controls.Add(this.button14);
@@ -713,63 +775,20 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(396, 547);
+            this.tabPage2.Size = new System.Drawing.Size(478, 547);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Query DB (1)";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // label10
+            // button4
             // 
-            this.label10.AutoSize = true;
-            this.label10.ForeColor = System.Drawing.Color.Red;
-            this.label10.Location = new System.Drawing.Point(32, 26);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(158, 12);
-            this.label10.TabIndex = 13;
-            this.label10.Text = "記得參考 System.Data.LINQ.dll";
-            // 
-            // tabPage1
-            // 
-            this.tabPage1.Controls.Add(this.label10);
-            this.tabPage1.Controls.Add(this.groupBox2);
-            this.tabPage1.Location = new System.Drawing.Point(4, 22);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(396, 547);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Object Model";
-            this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // tabControl1
-            // 
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Controls.Add(this.tabPage5);
-            this.tabControl1.Controls.Add(this.tabPage4);
-            this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabControl1.Location = new System.Drawing.Point(0, 0);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(404, 573);
-            this.tabControl1.TabIndex = 13;
-            // 
-            // splitContainer1
-            // 
-            this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainer1.Location = new System.Drawing.Point(0, 0);
-            this.splitContainer1.Name = "splitContainer1";
-            // 
-            // splitContainer1.Panel1
-            // 
-            this.splitContainer1.Panel1.Controls.Add(this.tabControl1);
-            this.splitContainer1.Panel1.Controls.Add(this.label4);
-            // 
-            // splitContainer1.Panel2
-            // 
-            this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
-            this.splitContainer1.Size = new System.Drawing.Size(903, 573);
-            this.splitContainer1.SplitterDistance = 404;
-            this.splitContainer1.TabIndex = 27;
+            this.button4.Location = new System.Drawing.Point(329, 426);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 23);
+            this.button4.TabIndex = 124;
+            this.button4.Text = "鑽研";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // groupBox1
             // 
@@ -803,6 +822,7 @@
             this.button43.TabIndex = 82;
             this.button43.Text = "3. 尋找各分類之平均單價 (點關連標記法, 導覽屬性) (Implicit Inner Join) ";
             this.button43.UseVisualStyleBackColor = false;
+            this.button43.Click += new System.EventHandler(this.button43_Click);
             // 
             // button42
             // 
@@ -825,6 +845,7 @@
             this.button15.TabIndex = 122;
             this.button15.Text = "訂單 group by  年/季/月";
             this.button15.UseVisualStyleBackColor = false;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button14
             // 
@@ -836,6 +857,7 @@
             this.button14.TabIndex = 121;
             this.button14.Text = "訂單 group by  年/季/月";
             this.button14.UseVisualStyleBackColor = false;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // groupBox3
             // 
@@ -860,6 +882,7 @@
             this.button11.TabIndex = 92;
             this.button11.Text = "SelectMany - inner join / Cross join";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // button12
             // 
@@ -870,6 +893,7 @@
             this.button12.TabIndex = 91;
             this.button12.Text = "join (inner join) / join into .. (left outer join).";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button16
             // 
@@ -879,6 +903,7 @@
             this.button16.TabIndex = 86;
             this.button16.Text = "點關連標記法 (left outer join)";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // label6
             // 
@@ -914,15 +939,93 @@
             this.button68.TabIndex = 117;
             this.button68.Text = "訂單 group by  年 / 季";
             this.button68.UseVisualStyleBackColor = false;
+            this.button68.Click += new System.EventHandler(this.button68_Click);
             // 
-            // FrmLINQToSQL
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.ForeColor = System.Drawing.Color.Red;
+            this.label10.Location = new System.Drawing.Point(36, 16);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(153, 12);
+            this.label10.TabIndex = 13;
+            this.label10.Text = "記得參考 Entityframework.dll ";
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.label10);
+            this.tabPage1.Controls.Add(this.groupBox2);
+            this.tabPage1.Location = new System.Drawing.Point(4, 22);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(478, 547);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Object Model";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage5);
+            this.tabControl1.Controls.Add(this.tabPage4);
+            this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tabControl1.Location = new System.Drawing.Point(0, 0);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(486, 573);
+            this.tabControl1.TabIndex = 13;
+            // 
+            // splitContainer1
+            // 
+            this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer1.Name = "splitContainer1";
+            // 
+            // splitContainer1.Panel1
+            // 
+            this.splitContainer1.Panel1.Controls.Add(this.tabControl1);
+            this.splitContainer1.Panel1.Controls.Add(this.label4);
+            // 
+            // splitContainer1.Panel2
+            // 
+            this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
+            this.splitContainer1.Size = new System.Drawing.Size(903, 573);
+            this.splitContainer1.SplitterDistance = 486;
+            this.splitContainer1.TabIndex = 27;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.clearToolStripMenuItem});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(104, 26);
+            // 
+            // clearToolStripMenuItem
+            // 
+            this.clearToolStripMenuItem.Name = "clearToolStripMenuItem";
+            this.clearToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+            this.clearToolStripMenuItem.Text = "Clear";
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(52, 292);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(129, 23);
+            this.button5.TabIndex = 122;
+            this.button5.Text = "Refresh DataGridView";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // FrmLINQToEntity
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(903, 573);
+            this.ContextMenuStrip = this.contextMenuStrip1;
             this.Controls.Add(this.splitContainer1);
             this.Margin = new System.Windows.Forms.Padding(2);
-            this.Name = "FrmLINQToSQL";
+            this.Name = "FrmLINQToEntity";
             this.Text = "FrmLINQToEntity";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
@@ -957,6 +1060,8 @@
             this.groupBox2.PerformLayout();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             this.tabControl1.ResumeLayout(false);
@@ -965,8 +1070,7 @@
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox3.ResumeLayout(false);
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -995,7 +1099,6 @@
         private System.Windows.Forms.DataGridView dataGridView2;
         private System.Windows.Forms.SplitContainer splitContainer4;
         private System.Windows.Forms.SplitContainer splitContainer3;
-        private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.TreeView treeView1;
         private System.Windows.Forms.SplitContainer splitContainer2;
         private System.Windows.Forms.Label label11;
@@ -1038,5 +1141,13 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button68;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem clearToolStripMenuItem;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
     }
 }
